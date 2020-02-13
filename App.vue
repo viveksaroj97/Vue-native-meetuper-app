@@ -24,6 +24,7 @@ export default {
       ...Ionicons.font,
     });
 
+
     this.isAppReady= true
   }
 }
