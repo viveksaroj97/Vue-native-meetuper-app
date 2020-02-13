@@ -27,4 +27,6 @@ export default {
     this.isAppReady= true
   }
 }
+
+
 </script>
